@@ -4,7 +4,7 @@ An entrepreneur is interested in moving Hawaii, Oahu to follow his dreams and op
 
 ## Results: 
 ### firstthing's first is write a query that filters the measurement table to retrieve the temperatures for the month of June. 
-![Graph](https://github.com/Israelmejia12/surfs_up/blob/54ab1a1c7a6edca4cc05d7f3df23cbc6a618c3c7/filters%20the%20Measurement%20table.png)
+![Graph](https://github.com/Israelmejia12/surfs_up/blob/9fc316d17b4ff57d39dd50b8821de38681fb7523/query%20that%20filters%20the%20Measurement.png)
 ### Second thing is to extra the temperature for June and convert temperatures to a list. 
 ![Graph](https://github.com/Israelmejia12/surfs_up/blob/54ab1a1c7a6edca4cc05d7f3df23cbc6a618c3c7/Convert%20June%20temperatures.png)
 ### The next step is to Create a DataFrame from the list of temperatures. 
